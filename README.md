@@ -1,1 +1,1 @@
-# Restaurant_management_system
+# Hotel_Management_System
